@@ -1,0 +1,11 @@
+@media(max-width:480px){
+    header{
+        display: block;
+        height: 400px;
+        
+    }
+    .adress{
+        display: block;
+    }
+
+}
